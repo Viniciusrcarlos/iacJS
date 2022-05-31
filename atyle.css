@@ -1,0 +1,30 @@
+.centro{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.tudo{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border: solid 1px rgb(0, 0, 0);
+    padding: 1px;
+}
+
+.espaco{
+    color: black;
+}
+
+.capao{
+
+}
+
+.terraw{
+
+}
