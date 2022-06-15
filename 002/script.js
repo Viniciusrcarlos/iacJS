@@ -1,0 +1,1 @@
+var resposta = console.log(comfirm("Você é vegetariano?"))
